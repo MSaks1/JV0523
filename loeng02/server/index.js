@@ -23,7 +23,7 @@ let matk1 = {
     lat: 58.007202317060724,
     long: 24.713864372879755,
     participants: ['Merle, Merike,'],
-    homepage: ''
+    homepage: 'https://loodusegakoos.ee/kuhuminna/kaitsealad/nigula-looduskaitseala/1340'
   }
 
   let matk3 = {
@@ -33,7 +33,8 @@ let matk1 = {
     startTime: '28.05.2023 KELL 12:00',
     lat: 58.74853598721992,
     long: 24.975054534262366,
-    participants: ['Mihkel koos perega, Janek koos perega, Ruth']
+    participants: ['Mihkel koos perega, Janek koos perega, Ruth'],
+    homepage: 'https://loodusegakoos.ee/kuhuminna/puhkealad/sakala-puhkeala/mukri-raba-loodusrada'
   }
   
   let matkad = [matk1, matk2, matk3]

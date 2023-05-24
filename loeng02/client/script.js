@@ -16,7 +16,7 @@ fetch('http://localhost:8000')
           <div>Kuupäev: ${matk.startTime}</div>
           </div>
           <div>${matk.description}</div>
-          <div>${matk.homepage}</div>
+          <div>Koduleht: ${matk.homepage}</div>
           <a href="https://www.google.com/maps/@${matk.lat},${matk.long},17z" target="_blank">Koguneme siin!</a><br>
           <div>Lat: ${matk.lat}</div>
           <div>Long: ${matk.long}</div>
