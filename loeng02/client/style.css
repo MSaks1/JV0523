@@ -1,0 +1,12 @@
+.matk > h2{
+    color: blue;
+}
+.matk{
+    display: flex;
+    justify-content: space-between;
+    margin-right:  800px;
+}
+.matk > .date{
+    text-decoration: underline;
+    text-decoration-color:blue ;
+}
